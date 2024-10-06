@@ -84,9 +84,12 @@
 
 
 ## Github Stats 
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roopamroy2128&" alt="roopamroy2128" /></div> 
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roopamroy2128&theme=github_dark)
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roopamroy2128&" alt="roopamroy2128" /></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopamroy2128&show_icons=true&locale=en" alt="roopamroy2128" /></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopamroy2128&show_icons=true&locale=en&layout=compact" alt="roopamroy2128" /></p>
 
 
@@ -98,10 +101,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopamroy2128&label=Profile%20views&color=0e75b6&style=flat" alt="roopamroy2128" /> </p>
 <br>
+
+![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roopamroy2128&theme=github_dark)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roopamroy2128" alt="roopamroy2128" /></a> </p>
 
 <p align="left">
 </p>
+
+
+---
 
 
 

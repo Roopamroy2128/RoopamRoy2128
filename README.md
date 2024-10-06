@@ -87,7 +87,7 @@
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roopamroy2128&theme=github_dark)
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roopamroy2128&" alt="roopamroy2128" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopamroy2128&show_icons=true&locale=en" alt="roopamroy2128" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopamroy2128&show_icons=true&locale=en&theme=dark" alt="roopamroy2128" /></p> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopamroy2128&show_icons=true&locale=en&layout=compact" alt="roopamroy2128" /></p>

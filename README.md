@@ -102,7 +102,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopamroy2128&label=Profile%20views&color=0e75b6&style=flat" alt="roopamroy2128" /> </p>
 <br>
 
+</div>
+
+<div style="margin-top: 10px;">
 ![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roopamroy2128&theme=github_dark)
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roopamroy2128" alt="roopamroy2128" /></a> </p>
 

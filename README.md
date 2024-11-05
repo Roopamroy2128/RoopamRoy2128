@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces😅  
 
-- ✉️ You can also reach me through My Email : roopamroy500@gmail.com  
+<!--  - ✉️ You can also reach me through My Email : roopamroy500@gmail.com  -->
 
 
 
